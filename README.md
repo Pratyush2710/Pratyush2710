@@ -17,5 +17,5 @@
 <a href="https://linkedin.com/in/pratyush2710" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pratyush2710" height="20" width="20" /></a>
 <a href="https://fb.com/pratyush.music" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="pratyush.music" height="20" width="20" /></a>
 <a href="https://instagram.com/pratyush.music" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pratyush.music" height="20" width="20" /></a>
-<a href="https://www.youtube.com/c/pratyush garg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="pratyush garg" height="20" width="20" /></a>
+<a href="https://www.youtube.com/channel/UCe8FEKp8Ym1QyR8K0L49I9Q/featured" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="pratyush garg" height="20" width="20" /></a>
 </p>
