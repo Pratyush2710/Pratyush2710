@@ -2,7 +2,7 @@
 <h3 align="center">A keen learner and quick to take initiative</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyush2710" alt="pratyush2710" /> </p>
 
-- 🔭 I’m currently working on **[GitGeek Dashboard](https://github.com/Pratyush2710/Github-Dashboard)**
+- 🔭 I’m currently working on my portfolio
 
 - 💬 Ask me about **React, Javascript**
 
